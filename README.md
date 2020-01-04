@@ -1,4 +1,4 @@
-# Home-made WP Plugins
+# Home-made WP Plugins & Themes
 
 A list of WordPress plugins I am maintaining.
 
