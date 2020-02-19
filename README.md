@@ -1,6 +1,6 @@
 # Home-made WP Plugins & Themes
 
-A list of WordPress plugins I am maintaining.
+A list of WordPress plugins created by me. Mostly simple functionality plugins with just a few lines of code :)
 
 ### Minimalistic Event Manager
 Allows for simple management of event dates (start dates, end dates, repeating dates) on Posts and Custom Post Types.  
@@ -19,7 +19,7 @@ Puts Jetpack into Development Mode.
 https://github.com/coursweb/vol-de-nuit
 
 ### Jetpack Carousel Enhancements
-Hides the comment form and moves the close icon to the top-right part of the screen inside the Jetpack Carousel screen.  
+Hides the comment form and moves the "close" icon to the top-right part of the screen inside the Jetpack Carousel screen.  
 https://github.com/wpromandie/jetpack-carousel-enhancements
 
 ### MS-Studio Gallery
@@ -41,6 +41,8 @@ https://github.com/ms-studio/frontpage-teleport
 ### Disable Fonts: TwentyFifteen
 Disables default fonts of the TwentyFifteen theme.  
 https://github.com/ms-studio/disable-fonts-twentyfifteen
+
+***
 
 ## Home-made WP Themes
 A list of themes that might be useful for you.
@@ -68,6 +70,8 @@ https://github.com/ms-studio/ms-resonant-child
 ### greyscale-cs
 Child theme of Coup Shop (by Themes Kingdom)  
 https://github.com/greyscalepress/greyscale-cs
+
+***
 
 ## Other useful things
 
