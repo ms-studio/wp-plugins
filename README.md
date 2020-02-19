@@ -32,8 +32,8 @@ Redirects the frontpage to some other URL.
 A list of themes that might be useful for you.
 
 - **[Memex](https://github.com/1904cc/memex)** : Experimental theme for archival documentation - 
-- **Cave12 WP** : WP theme for Cave12 - https://github.com/cave12/cave12-wp
-- **north-by-northwest** : Child theme for Hitchcock (by Anders Norén) - https://github.com/ms-studio/north-by-northwest
+- **[Cave12 WP](https://github.com/cave12/cave12-wp)** : WP theme for Cave12.
+- **[north-by-northwest](https://github.com/ms-studio/north-by-northwest)** : Child theme for Hitchcock (by Anders Norén).
 - **[cowork15](https://github.com/coworking-neuchatel/cowork15)** : Theme for a coworking space, based on Edin. 
 - **[ms-resonant-child](https://github.com/ms-studio/ms-resonant-child)** : Child theme of Resonant (by Themes Kingdom).
 - **[greyscale-cs](https://github.com/greyscalepress/greyscale-cs)** : Child theme of Coup Shop (by Themes Kingdom).
