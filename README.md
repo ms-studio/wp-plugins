@@ -47,34 +47,17 @@ https://github.com/ms-studio/disable-fonts-twentyfifteen
 ## Home-made WP Themes
 A list of themes that might be useful for you.
 
-### Memex
-WP theme for archival documentation  
-https://github.com/1904cc/memex
-
-### Cave12 WP
-WP theme for Cave12  
-https://github.com/cave12/cave12-wp
-
-### north-by-northwest
-Child theme for Hitchcock (by Anders Norén)  
-https://github.com/ms-studio/north-by-northwest
-
-### cowork15
-Theme for a coworking space  
-https://github.com/coworking-neuchatel/cowork15
-
-### ms-resonant-child
-Child theme of Resonant (by Themes Kingdom)  
-https://github.com/ms-studio/ms-resonant-child
-
-### greyscale-cs
-Child theme of Coup Shop (by Themes Kingdom)  
-https://github.com/greyscalepress/greyscale-cs
+- **[Memex](https://github.com/1904cc/memex)** : Experimental theme for archival documentation - 
+- **Cave12 WP** : WP theme for Cave12 - https://github.com/cave12/cave12-wp
+- **north-by-northwest** : Child theme for Hitchcock (by Anders Norén) - https://github.com/ms-studio/north-by-northwest
+- **[cowork15](https://github.com/coworking-neuchatel/cowork15)** : Theme for a coworking space, based on Edin. 
+- **[ms-resonant-child](https://github.com/ms-studio/ms-resonant-child)** : Child theme of Resonant (by Themes Kingdom).
+- **[greyscale-cs](https://github.com/greyscalepress/greyscale-cs)** : Child theme of Coup Shop (by Themes Kingdom).
+- **[designbriefs](https://github.com/ms-studio/design-briefs)** : child theme of Davis, by Anders Norén.
 
 ***
 
 ## Other useful things
 
-### Migration SPIP-to-WP
-Documentation d'une migration de site de SPIP à WordPress.  
-https://cave12.github.io/migration-spip-wp/
+- **[Migration SPIP-to-WP](https://cave12.github.io/migration-spip-wp/)** - Documentation d'une migration de site de SPIP à WordPress.  
+
