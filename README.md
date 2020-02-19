@@ -1,42 +1,24 @@
 # Home-made WP Plugins & Themes
 
-A list of WordPress plugins created by me. Mostly simple functionality plugins with just a few lines of code :)
+## Home-made WP Plugins
 
-### Minimalistic Event Manager
-Allows for simple management of event dates (start dates, end dates, repeating dates) on Posts and Custom Post Types.  
-https://github.com/ms-studio/minimalistic-event-manager
+A list of WordPress utilities created by me. Mostly simple functionality plugins with just a few lines of code :)
 
-### Radical Auto-Updater
-Enables all Automatic Background Updates for WordPress: Core updates, Plugin updates, Theme updates, Translation file updates  
-https://github.com/ms-studio/radical-auto-updater
-
-### Vimeo Vortex
-Improved Vimeo embedding via API.  
-https://github.com/KinoGeneva/vimeo-vortex
-
-### Vol de nuit
-Puts Jetpack into Development Mode.  
-https://github.com/coursweb/vol-de-nuit
-
-### Jetpack Carousel Enhancements
-Hides the comment form and moves the "close" icon to the top-right part of the screen inside the Jetpack Carousel screen.  
-https://github.com/wpromandie/jetpack-carousel-enhancements
-
-### MS-Studio Gallery
-Helper plugin for ACF Galleries.  
-https://github.com/ms-studio/ms-studio-gallery
-
-### MS-Studio Prettify URL
+- **[Minimalistic Event Manager](https://github.com/ms-studio/minimalistic-event-manager)** : Allows for simple management of event dates (start dates, end dates, repeating dates) on Posts and Custom Post Types.  
+- **[Radical Auto-Updater](https://github.com/ms-studio/radical-auto-updater)** : 
+Enables *all* automatic background updates for WordPress: Core updates, Plugin updates, Theme updates, Translation file updates.
+- **[Vimeo Vortex](https://github.com/KinoGeneva/vimeo-vortex)** : Improved Vimeo embedding via API.  
+- **[Vol de nuit](https://github.com/coursweb/vol-de-nuit)** : Puts Jetpack into *Development Mode*.  
+- **[Jetpack Carousel Enhancements](https://github.com/wpromandie/jetpack-carousel-enhancements)** : Hides the comment form and moves the "close" icon to the top-right part of the screen inside the Jetpack Carousel screen.  
+- **[MS-Studio Gallery](https://github.com/ms-studio/ms-studio-gallery)** : Helper plugin for ACF Gallery output.  
+- **[MS-Studio Prettify URL](https://github.com/ms-studio/pretty-url)**
 Helper plugin for ACF. Prettifies URL output (make it human-readable).  
-https://github.com/ms-studio/pretty-url
-
-### MS-Studio Protect Email
+- **[MS-Studio Protect Email](https://github.com/ms-studio/protect-email)**
 Helper plugin for ACF. Protects email output against spam bots.  
-https://github.com/ms-studio/protect-email
-
-### Frontpage Teleport
+- **[Frontpage Teleport](https://github.com/ms-studio/frontpage-teleport)**
 Redirects the frontpage to some other URL.  
-https://github.com/ms-studio/frontpage-teleport
+
+## Plugins for specific themes:
 
 ### Disable Fonts: TwentyFifteen
 Disables default fonts of the TwentyFifteen theme.  
