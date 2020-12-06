@@ -18,7 +18,7 @@ Redirects the frontpage to some other URL.
 
 ## ACF helper plugins
 - **[MS-Studio Gallery](https://github.com/ms-studio/ms-studio-gallery)** : Helper plugin for ACF Gallery output.
-- **[MS-Studio Prettify URL](https://github.com/ms-studio/pretty-url)** : Helper plugin for ACF. Prettifies URL output (make it human-readable).
+- **[MS-Studio Prettify URL](https://github.com/ms-studio/pretty-url)** : Helper plugin for ACF. Prettifies URL output (making it human-readable).
 - **[MS-Studio Protect Email](https://github.com/ms-studio/protect-email)** : Helper plugin for ACF. Protects email output against spam bots.
 
 ## Plugins for specific themes:
@@ -37,7 +37,7 @@ A list of themes that might be useful for you.
 - **[cowork15](https://github.com/coworking-neuchatel/cowork15)** : Theme for a coworking space, based on Edin. 
 - **[ms-resonant-child](https://github.com/ms-studio/ms-resonant-child)** : Child theme of Resonant (by Themes Kingdom).
 - **[greyscale-cs](https://github.com/greyscalepress/greyscale-cs)** : Child theme of Coup Shop (by Themes Kingdom).
-- **[designbriefs](https://github.com/ms-studio/design-briefs)** : child theme of Davis, by Anders Norén.
+- **[designbriefs](https://github.com/ms-studio/design-briefs)** : Child theme of Davis, by Anders Norén.
 
 ***
 
