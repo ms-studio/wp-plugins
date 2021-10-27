@@ -8,7 +8,7 @@ A list of WordPress utilities created by me. Mostly simple functionality plugins
 - **[Minimalistic Event Manager](https://github.com/ms-studio/minimalistic-event-manager)** : Allows for simple management of event dates (start dates, end dates, repeating dates) on Posts and Custom Post Types.
 - **[Radical Auto-Updater](https://github.com/ms-studio/radical-auto-updater)** : 
 Enables *all* automatic background updates for WordPress: Core updates, Plugin updates, Theme updates, Translation file updates.
-- **[Vimeo Vortex](https://github.com/KinoGeneva/vimeo-vortex)** : Improved Vimeo embedding via API.
+- **[Vimeo Vortex](https://github.com/ms-studio/vimeo-vortex)** : Improved Vimeo embedding via API.
 - **[Frontpage Teleport](https://github.com/ms-studio/frontpage-teleport)**
 Redirects the frontpage to some other URL.
 
